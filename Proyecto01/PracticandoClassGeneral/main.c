@@ -8,6 +8,7 @@ division y multiplicacion.
 
 int main()
 {
+
     int primerNumero;
     int segundoNumero;
     int suma;
@@ -23,7 +24,7 @@ int main()
 
     suma=primerNumero+segundoNumero;
     resta=primerNumero-segundoNumero;
-    division=(float)primerNumero/segundoNumero;
+    division=(float)primerNumero/segundoNumero;//para dividir necesito float
     multiplicacion=primerNumero*segundoNumero;
 
     printf("La suma es %d \n",suma);
