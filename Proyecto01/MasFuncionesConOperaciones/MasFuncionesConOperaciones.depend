@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599790600 source:c:\users\lalys\desktop\laboratorio_1b\proyecto01\masfuncionesconoperaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
