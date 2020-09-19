@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600305076 source:c:\users\lalys\desktop\laboratorio_1b\proyecto01\clase5\main.c
+	<stdio.h>
+	"funcionesArrays.h"
+
+1600307729 c:\users\lalys\desktop\laboratorio_1b\proyecto01\clase5\funcionesarrays.h
+
+1600287194 source:c:\users\lalys\desktop\laboratorio_1b\proyecto01\clase5\funcionesarrays.c
+	"funcionesArrays.h"
+
